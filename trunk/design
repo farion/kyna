@@ -1,0 +1,2 @@
+Bomben Explodieren und setzten dann ein KynaFire ab (fire aufs Feld aufrufen), dieses beinhaltet, in welche Richtungen es sich ausbreitet und wie weit es noch explodieren kann (range).
+Die FireFunktion der entsprechenden Felder entscheidet dann, ob das Feuer weitergeht (indem es wiederum ein fire() auf den entsprechendne nächsten Feldern aufruft)

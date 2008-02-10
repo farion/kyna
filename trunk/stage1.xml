@@ -1,0 +1,42 @@
+<xml>
+<level name="stage1" fill="20" width="20" height="13" minPlayer="1" maxPlayer="1" fieldset="highland">
+	<tiles>
+		<cornerLeftTop file="wand_t.png" />
+		<cornerLeftBottom file="wand_lb.png" />
+	</tiles>
+	<exit>
+		<inactivetiles>
+			<tile file="exit.png" />
+		</inactivetiles>
+		<activetiles>
+			<tile file="exit.png" />
+			<tile file="exit2.png" />
+		</activetiles>
+	</exit>
+	<goodies>
+		<goodie name="Range">
+			<buffs>
+				<buff type="BOMB_RANGE" value="1" />
+			</buffs>
+			<tiles>
+				<tile file="goodies/range1.png" />
+				<tile file="goodies/range2.png" />
+			</tiles>
+	  </goodie>
+	  <goodie name="Count">
+		  <buffs>
+			  <buff type="BOMB_COUNT" value="1" />
+		  </buffs>
+		  <tiles>
+			  <tile file="goodies/count1.png" />
+			  <tile file="goodies/count2.png" />
+		  </tiles>
+	  </goodie>
+	</goodies>
+	<units>
+		<player name="farion" race="magic" x="1" y="1"/>
+		<enemy name="Balloon1" race="balloon" x="5" y="5" />
+		<enemy name="Balloon2" race="balloon" x="7" y="7" />
+	</units>
+</level>
+</xml>

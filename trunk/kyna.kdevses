@@ -1,0 +1,141 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="34" >
+  <Doc0 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynasettingsreader.h" >
+   <View0 Encoding="" line="24" Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/stage1.xml" >
+   <View0 Encoding="" Type="Source" />
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynabomb.cpp" >
+   <View0 Encoding="" line="181" Type="Source" />
+  </Doc2>
+  <Doc3 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynalevel.cpp" >
+   <View0 Encoding="" line="438" Type="Source" />
+  </Doc3>
+  <Doc4 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynafield.cpp" >
+   <View0 Encoding="" line="324" Type="Source" />
+  </Doc4>
+  <Doc5 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynafield.h" >
+   <View0 Encoding="" line="69" Type="Source" />
+  </Doc5>
+  <Doc6 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaexit.cpp" >
+   <View0 Encoding="" line="49" Type="Source" />
+  </Doc6>
+  <Doc7 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaexit.h" >
+   <View0 Encoding="" line="15" Type="Source" />
+  </Doc7>
+  <Doc8 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynatypes.h" >
+   <View0 Encoding="" Type="Source" />
+  </Doc8>
+  <Doc9 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynasettingsreader.cpp" >
+   <View0 Encoding="" line="434" Type="Source" />
+  </Doc9>
+  <Doc10 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/defines.h" >
+   <View0 Encoding="" Type="Source" />
+  </Doc10>
+  <Doc11 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynalevel.h" >
+   <View0 Encoding="" line="40" Type="Source" />
+  </Doc11>
+  <Doc12 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaunit.cpp" >
+   <View0 Encoding="" line="644" Type="Source" />
+  </Doc12>
+  <Doc13 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaunit.h" >
+   <View0 Encoding="" line="88" Type="Source" />
+  </Doc13>
+  <Doc14 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynagoodie.cpp" >
+   <View0 Encoding="" line="62" Type="Source" />
+  </Doc14>
+  <Doc15 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynawindow.cpp" >
+   <View0 Encoding="" line="72" Type="Source" />
+  </Doc15>
+  <Doc16 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynatileset.h" >
+   <View0 Encoding="" line="23" Type="Source" />
+  </Doc16>
+  <Doc17 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynagoodie.h" >
+   <View0 Encoding="" line="16" Type="Source" />
+  </Doc17>
+  <Doc18 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynapixmapitem.h" >
+   <View0 Encoding="" line="28" Type="Source" />
+  </Doc18>
+  <Doc19 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynapixmapitem.cpp" >
+   <View0 Encoding="" line="90" Type="Source" />
+  </Doc19>
+  <Doc20 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaki.cpp" >
+   <View0 Encoding="" line="34" Type="Source" />
+  </Doc20>
+  <Doc21 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaki.h" >
+   <View0 Encoding="" line="15" Type="Source" />
+  </Doc21>
+  <Doc22 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynabomb.h" >
+   <View0 Encoding="" line="20" Type="Source" />
+  </Doc22>
+  <Doc23 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynabuff.cpp" >
+   <View0 Encoding="" Type="Source" />
+  </Doc23>
+  <Doc24 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynacontrol.cpp" >
+   <View0 Encoding="" Type="Source" />
+  </Doc24>
+  <Doc25 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaitem.cpp" >
+   <View0 Encoding="" Type="Source" />
+  </Doc25>
+  <Doc26 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaplayer.cpp" >
+   <View0 Encoding="" line="116" Type="Source" />
+  </Doc26>
+  <Doc27 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynaplayer.h" >
+   <View0 Encoding="" line="24" Type="Source" />
+  </Doc27>
+  <Doc28 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynatileset.cpp" >
+   <View0 Encoding="" line="0" Type="Source" />
+  </Doc28>
+  <Doc29 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/magic.xml" >
+   <View0 Encoding="" Type="Source" />
+  </Doc29>
+  <Doc30 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynawindow.h" >
+   <View0 Encoding="" line="32" Type="Source" />
+  </Doc30>
+  <Doc31 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/main.cpp" >
+   <View0 Encoding="" Type="Source" />
+  </Doc31>
+  <Doc32 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynatimer.cpp" >
+   <View0 Encoding="" line="12" Type="Source" />
+  </Doc32>
+  <Doc33 NumberOfViews="1" URL="file:///home/farion/MyFiles/Entwicklung/kyna/kynatimer.h" >
+   <View0 Encoding="" line="17" Type="Source" />
+  </Doc33>
+ </DocsAndViews>
+ <pluginList>
+  <kdevdebugger>
+   <breakpointList>
+    <breakpoint0 location="/home/farion/MyFiles/Entwicklung/kyna/kynafield.cpp:188" type="1" tracingFormatString="" traceFormatStringEnabled="0" condition="" tracingEnabled="0" enabled="1" >
+     <tracedExpressions/>
+    </breakpoint0>
+    <breakpoint1 location="/home/farion/MyFiles/Entwicklung/kyna/kynawindow.cpp:73" type="1" tracingFormatString="" traceFormatStringEnabled="0" condition="" tracingEnabled="0" enabled="1" >
+     <tracedExpressions/>
+    </breakpoint1>
+   </breakpointList>
+   <showInternalCommands value="0" />
+  </kdevdebugger>
+  <kdevastyle>
+   <Extensions ext="*.cpp *.h,*.c *.h,*.cxx *.hxx,*.c++ *.h++,*.cc *.hh,*.C *.H,*.diff,*.inl,*.java,*.moc,*.patch,*.tlh,*.xpm" />
+   <AStyle IndentPreprocessors="0" FillCount="4" PadParenthesesOut="1" IndentNamespaces="1" IndentLabels="1" Fill="Tabs" MaxStatement="40" Brackets="Break" MinConditional="-1" IndentBrackets="0" PadParenthesesUn="1" BlockBreak="0" KeepStatements="1" KeepBlocks="1" BlockIfElse="0" IndentSwitches="1" PadOperators="0" FStyle="UserDefined" IndentCases="0" FillEmptyLines="0" BracketsCloseHeaders="0" BlockBreakAll="0" PadParenthesesIn="1" IndentClasses="1" IndentBlocks="0" FillForce="0" />
+  </kdevastyle>
+  <kdevbookmarks>
+   <bookmarks>
+    <bookmark url="/home/farion/MyFiles/Entwicklung/kyna/kynalevel.h" >
+     <mark line="94" />
+    </bookmark>
+   </bookmarks>
+  </kdevbookmarks>
+  <kdevsubversion>
+   <subversion base="" />
+  </kdevsubversion>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="" params="" />
+   <calltree path="" params="" />
+   <kcachegrind path="" />
+  </kdevvalgrind>
+ </pluginList>
+</KDevPrjSession>

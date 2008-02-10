@@ -1,0 +1,21 @@
+<xml>
+	<unit name="Balloon" movespeed="4">
+		<tiles>
+			<left>
+				<tile file="balloon_left.png" />
+			</left>
+			<right>
+				<tile file="balloon_right.png" />
+			</right>
+			<top>
+				<tile file="balloon_up.png" />
+			</top>
+			<down>
+				<tile file="balloon_down.png" />
+			</down>
+			<dead>
+				<tile file="balloon_dead.png" />
+			</dead>
+		</tiles>
+	</unit>
+</xml>
