@@ -1,0 +1,21 @@
+<xml>
+	<unit name="Magic" movespeed="4">
+		<tiles>
+			<left>
+				<tile file="magic_left.png" />
+			</left>
+			<right>
+				<tile file="magic_right.png" />
+			</right>
+			<top>
+				<tile file="magic_top.png" />
+			</top>
+			<down>
+				<tile file="magic_down.png" />
+			</down>
+			<dead>
+				<tile file="magic_dead.png" />
+			</dead>
+		</tiles>
+	</unit>
+</xml>
